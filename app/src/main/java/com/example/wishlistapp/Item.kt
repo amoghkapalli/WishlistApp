@@ -1,7 +1,10 @@
 package com.example.wishlistapp
 
-class Item (
+import android.net.Uri
+
+class Item(
     val name: String,
-    val price: Double,
-    val url: String){
+    val price: Float,
+    val url: Uri
+){
 }
