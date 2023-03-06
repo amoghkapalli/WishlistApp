@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
+- [X] User can delete an item by long pressing on the item
+- [X] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
 
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
