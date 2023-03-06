@@ -1,4 +1,4 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *WishList App*
 
 Submitted by: **Amogh Kapalli**
 
