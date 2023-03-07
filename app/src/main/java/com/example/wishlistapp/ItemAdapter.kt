@@ -56,7 +56,6 @@ class ItemAdapter (private val items: MutableList<Item>, private val context: Co
     }
 
     fun longClicker(position: Int){
-        Toast.makeText(context, "longClick", Toast.LENGTH_LONG).show()
         items.removeAt(position)
         notifyDataSetChanged()
     }

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Wishlist App</string>
+    <style name="LargePlumFont">
+        <item name="android:textColor">#DDA0DD</item>
+        <item name="android:textSize">27sp</item>
+    </style>
 </resources>

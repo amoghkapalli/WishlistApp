@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="DarkOrange">#FF8C00</color>
 </resources>
